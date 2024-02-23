@@ -1,0 +1,26 @@
+.smain {
+  width: 65%;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  height: 100px;
+  margin-top: 30px;
+  align-items: center;
+  margin-bottom: 30px;
+  color: rgb(118, 114, 114);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  .sl {
+    margin-left: 30px;
+    font-size: 40px;
+  }
+  button {
+    background-color: #007fff;
+    height: 40px;
+    width: 130px;
+    color: white;
+    font-size: large;
+    border: none;
+    border-radius: 0 10px 10px 0;
+    margin-right: 20px;
+  }
+}
